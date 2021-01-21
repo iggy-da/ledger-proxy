@@ -8,6 +8,7 @@ out
 .cache/
 .history/
 .lib/
+/.grpc-bindings
 dist/*
 target/
 bin/
@@ -23,3 +24,4 @@ project/target/
 .scala_dependencies
 .worksheet
 /scripts/end-to-end.sh
+.bsp
